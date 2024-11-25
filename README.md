@@ -18,7 +18,7 @@ To run the project, you need:
 Clone the project to your local machine using Git:
 ```bash
 git clone https://github.com/bryanstanleyyy/Music-File-Player.git
-cd MusicFilePlayer
+cd Music-File-Player
 ```
 
 ### 2. Compile the Code
@@ -30,7 +30,7 @@ javac src/MusicFilePlayer.java
 ### 3. Run the Program
 To run the program, use this command:
 ```bash
-java -cp src MusicFilePlayer ode_to_joy.txt
+java -cp src MusicFilePlayer notes/ode_to_joy.txt
 ```
 
 ### 4. Input File
